@@ -1,0 +1,19 @@
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Generated build files
+/build/
+/app/build/
+
+# Local Gradle configuration
+.gradle/
+local.properties
+
+# Sensitive or temporary files
+*.log
+
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
